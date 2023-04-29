@@ -2,7 +2,7 @@ git init -> crea un nuevo repositorio local
 
 # configurar el repositorio a que usuario pertenece
 git config user.name "Dxsxsx"
-git config user.email "Dxsx1226dev@gmail.com"
+git config user.email "aeiou@gmail.com"
 
 # comunitar repositorio local con github
 git remote add origin "https://github.com/Dxsxsx/git_repository.git"
