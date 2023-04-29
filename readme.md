@@ -49,5 +49,7 @@ git merge rama1 master
 
 
 # Crear un tags(releases)
-git tags 0.1 -m "descripcion"
+git tag 0.1 -m "descripcion"
 git push --tags origin master
+
+# ok <ok>
