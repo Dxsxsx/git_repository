@@ -39,3 +39,4 @@ git branch -d ramita1
 
 # crear archivos y guardar en la rama1
 git add .
+git commit -m "commit de la rama1"
