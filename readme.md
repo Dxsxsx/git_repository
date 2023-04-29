@@ -46,3 +46,8 @@ git diff master rama1
 
 # actualizar con los mismos archivos entre dos ramas(master) | se debe de estar en la rama donde va ha recibir la actualización
 git merge rama1 master
+
+
+# Crear un tags(releases)
+git tags 0.1 -m "descripcion"
+git push --tags origin master
