@@ -43,3 +43,6 @@ git commit -m "commit de la rama1"
 
 # conocer las diferencias entre dos ramas
 git diff master rama1
+
+# actualizar con los mismos archivos entre dos ramas(master) | se debe de estar en la rama donde va ha recibir la actualización
+git merge rama1 master
