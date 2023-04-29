@@ -23,3 +23,19 @@ git clone https://github.com/Dxsxsx/git_repository.git
 git pull origin master
 
 # branches - Ramas -> 
+git branch -> Rama actual
+
+# crear rama1
+git branch rama1
+
+# Editar nombre de rama1
+git branch -m <nombreActual> <nombreNuevo>
+
+# cambia de rama (master-rama1)
+git checkout ramita1
+
+# eliminar rama
+git branch -d ramita1
+
+# crear archivos y guardar en la rama1
+git add .
